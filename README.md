@@ -59,7 +59,7 @@ source .venv/bin/activate
 
 ### Install dependencies
 ```bash 
-uv pip install
+uv sync
 ```
 
 ## Running the project
