@@ -66,7 +66,7 @@ uv sync
 
 To run the main analysis:
 ```bash 
-python src/main.py
+python src/run_everything.py
 ```
 
 To explore the analysis yourself:
