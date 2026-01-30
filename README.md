@@ -64,9 +64,14 @@ uv sync
 
 ## Running the project
 
+Navigate to src folder
+```bash
+cd /YOURPATH/california_fire_crisis/src/
+```
+
 To run the main analysis:
 ```bash 
-python src/run_everything.py
+python run_everything.py
 ```
 
 To explore the analysis yourself:
