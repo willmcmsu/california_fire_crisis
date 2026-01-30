@@ -21,23 +21,6 @@ The dataset includes:
 These files should be placed in:
 - data/raw (and are ignored by github)
 
-# Repo Structure
-california_fire_crisis/
-│
-├── README.md
-├── pyproject.toml
-├── .gitignore
-│
-├── data/
-│ ├── raw/ # Original, unmodified data (not committed)
-│ └── processed/ # Cleaned / derived datasets created by scripts
-│
-├── notebooks/ # Jupyter notebooks for exploration and analysis
-│
-├── src/ # Python scripts for analysis and visualization
-│ └── main.py # Entry point to run the project
-
-
 ## uv Environment Setup
 
 This project uses uv for fast and modern python managment.
